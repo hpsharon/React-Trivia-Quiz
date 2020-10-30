@@ -1,3 +1,6 @@
 # Trivia application made with React, Typescript and Styled-Components
 
-You can see a working demo [HERE](https://react-trivia-quiz.vercel.app/)
+A quick and simple trivia quiz with 10 questions.  
+
+
+Test yourself [HERE](https://react-trivia-quiz.vercel.app/)
